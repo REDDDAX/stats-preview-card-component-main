@@ -94,9 +94,7 @@ div#container {
 }
 
 @media screen and (max-width: 500px) {
-  body {
-    background-color: white;
-  }
+  
   div#container {
     display: flex;
     justify-content: center;
