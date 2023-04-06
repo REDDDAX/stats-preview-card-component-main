@@ -78,8 +78,8 @@ div#container {
 #container .right img.desktop {
   width: 600px;
 }
-#container .right img.phone{
-    display: none;
+#container .right img.phone {
+  display: none;
 }
 
 .overlay {
@@ -127,7 +127,6 @@ div#container {
     width: 386px;
     height: 300px;
     border-radius: 15px 15px 0 0;
-    
   }
   .big {
     font-size: 35px;
@@ -185,7 +184,7 @@ div#container {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 500px) {
   .big {
     font-size: 30px;
     width: 350px;
